@@ -5,3 +5,22 @@
 
 @import '../assets/styles/_variables.scss';
 @import '../assets/styles/components.scss';
+
+
+
+.bg-dark{
+    background-color: #251819;
+}
+.bg-dark-color{
+    color: #F3F2F2;
+}
+
+.theme-light{
+    background-color: #FFFFFF;
+}
+.theme-light-color{
+    color: #282525;
+}
+.theme-light-color-secondary{
+    color: #5D5656;
+}
