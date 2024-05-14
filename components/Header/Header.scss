@@ -1,0 +1,12 @@
+.header-container{
+    padding: 16px 24px;
+    display: flex;
+    justify-content: space-between;
+
+    .header-actions{
+        display: flex;
+        justify-content: space-between;
+        gap: 18px;
+    }
+}
+
